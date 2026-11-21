@@ -52,7 +52,7 @@ export default function Hero() {
               alt={portfolioData.personal.name}
               fill
               priority
-              className="object-cover object-top"
+              className="object-cover object-center"
             />
           </div>
 
